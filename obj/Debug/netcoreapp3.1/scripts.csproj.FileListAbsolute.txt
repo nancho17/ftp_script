@@ -1,0 +1,14 @@
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.csproj.AssemblyReference.cache
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.AssemblyInfoInputs.cache
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.AssemblyInfo.cs
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Videos\scripts\bin\Debug\netcoreapp3.1\scripts.exe
+C:\Users\Hernan\Videos\scripts\bin\Debug\netcoreapp3.1\scripts.deps.json
+C:\Users\Hernan\Videos\scripts\bin\Debug\netcoreapp3.1\scripts.runtimeconfig.json
+C:\Users\Hernan\Videos\scripts\bin\Debug\netcoreapp3.1\scripts.runtimeconfig.dev.json
+C:\Users\Hernan\Videos\scripts\bin\Debug\netcoreapp3.1\scripts.dll
+C:\Users\Hernan\Videos\scripts\bin\Debug\netcoreapp3.1\scripts.pdb
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.dll
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.pdb
+C:\Users\Hernan\Videos\scripts\obj\Debug\netcoreapp3.1\scripts.genruntimeconfig.cache
